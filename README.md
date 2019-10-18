@@ -1,13 +1,13 @@
 # # Checkers
- 
+This is the Checkers game I made in High School using Java Swing API and AWT Event API
+
 #### REQUIRED (10pts)
-- [x] (5pts) User can tap a cell to see more details about a particular movie.
+- [x] You can play against your friends or against an AI
 - [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 #### BONUS
-- [x] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
-- [x] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
-- [x] User can search for movies. It returns the top 20 matching movies to the search query.
+- [x] Shows possible moves when clicked on a checker
+- [x] Ability to show Coordinates of the tile
 
 ### App Walkthough GIF
 <img src="http://g.recordit.co/8s9PTqHZyz.gif" ><br>
