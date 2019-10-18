@@ -17,7 +17,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [X] When a movie is selected, top movies that relate to the current movie is also displayed
 
 ### App Walkthough GIF
-<img src="http://g.recordit.co/8s9PTqHZyz.gif" width=250><br>
+<img src="http://g.recordit.co/8s9PTqHZyz.gif" ><br>
 
 ### Notes
 - Working on the search tab was challenging because I had trouble hiding the keyboard when a movie was selected. When adding a new gesture for the collection view, it overrided its past gestures and it didnt detect tapping. I overcame the problem by hiding the keyboard when a movie is chosen.
