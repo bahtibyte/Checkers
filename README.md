@@ -7,9 +7,9 @@ This is the Checkers game I made in High School using Java Swing API and AWT Eve
 - [x] Shows possible moves when clicked on a checker
 - [x] Displays extensive log of all events
 
-### App Walkthough GIF
+### Checkers walkthrough GIF
 <img src="http://g.recordit.co/8s9PTqHZyz.gif" ><br>
 
 ### Notes
-
+This is the backend keeping track of what happens on every event
 ![alt text](https://i.imgur.com/BFrw87I.png)
