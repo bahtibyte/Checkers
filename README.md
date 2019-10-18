@@ -12,4 +12,4 @@ This is the Checkers game I made in High School using Java Swing API and AWT Eve
 
 ### Notes
 
-![alt text]("https://i.imgur.com/BFrw87I.png")
+![alt text](https://i.imgur.com/BFrw87I.png)
